@@ -1,6 +1,7 @@
 const express = require("express");
 const dotenv = require("dotenv");
-
+const allProducts = require("./routes/products");
+const allProductsStatic = require("./routes/products");
 const errorHandler = require("./middleware/error-handler");
 const notFound = require("./middleware/not-found");
 dotenv.config();
@@ -12,6 +13,8 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
 const { connectDB } = require("./db/connect");
+app.use("/api/v1/products", allProducts);
+app.use("./api/v1/products", allProductsStatic);
 app.get("/", (request, response) => {
   response.send(
     '<h1>Store API </h1> <a href="/api/v1/products">Products routes</a>'
