@@ -1,9 +1,11 @@
 const express = require("express");
+require("express-async-errors");
 const dotenv = require("dotenv");
 const allProducts = require("./routes/products");
 const allProductsStatic = require("./routes/products");
 const errorHandler = require("./middleware/error-handler");
 const notFound = require("./middleware/not-found");
+
 dotenv.config();
 
 const app = express();
