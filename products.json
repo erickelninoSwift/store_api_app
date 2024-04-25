@@ -2,130 +2,130 @@
   {
     "name": "accent chair",
     "price": 25,
-    "company": "marcos",
+    "company": "Pro Photography",
     "rating": 4
   },
   {
     "name": "albany sectional",
     "price": 109,
-    "company": "liddy",
+    "company": "Ramzted",
     "rating": 5
   },
   {
     "name": "albany table",
     "price": 309,
-    "company": "liddy",
+    "company": "Ramzted",
     "rating": 4.9
   },
   {
     "name": "armchair",
     "price": 125,
-    "company": "marcos",
+    "company": "Zando",
     "rating": 4.8
   },
   {
     "name": "bar stool",
     "price": 40,
-    "company": "liddy",
+    "company": "Ramzted",
     "rating": 4.6
   },
   {
     "name": "dining table",
     "price": 42,
-    "company": "ikea",
+    "company": "Ramzted",
     "rating": 4.55
   },
   {
     "name": "emperor bed",
     "price": 23,
-    "company": "ikea"
+    "company": "Ramzted"
   },
   {
     "name": "entertainment center",
     "price": 59,
     "featured": true,
-    "company": "caressa"
+    "company": "Zando"
   },
   {
     "name": "high-back bench",
     "price": 39,
     "featured": true,
-    "company": "ikea"
+    "company": "Zando"
   },
 
   {
     "name": "leather sofa",
     "price": 99,
-    "company": "caressa"
+    "company": "Zando"
   },
   {
     "name": "modern bookshelf",
     "price": 31,
     "featured": true,
-    "company": "caressa"
+    "company": "Ramzted"
   },
   {
     "name": "modern poster",
     "price": 30,
-    "company": "liddy"
+    "company": "Ramzted"
   },
   {
     "name": "shelf",
     "price": 30,
-    "company": "ikea"
+    "company": "Zando"
   },
   {
     "name": "simple chair",
     "price": 109,
-    "company": "liddy"
+    "company": "Pro Photography"
   },
   {
     "name": "sofa set",
     "price": 129,
-    "company": "marcos"
+    "company": "Pro Photography"
   },
   {
     "name": "suede armchair",
     "price": 15,
-    "company": "caressa"
+    "company": "Thaboera IT Solutions"
   },
   {
     "name": "utopia sofa",
     "price": 79,
     "featured": true,
-    "company": "liddy"
+    "company": "Thaboera IT Solutions"
   },
   {
     "name": "vase table",
     "price": 120,
     "featured": true,
-    "company": "marcos"
+    "company": "Thaboera IT Solutions"
   },
   {
     "name": "wooden bed",
     "price": 25,
-    "company": "ikea"
+    "company": "Thaboera IT Solutions"
   },
   {
     "name": "wooden desk",
     "price": 15,
-    "company": "ikea"
+    "company": "Thaboera IT Solutions"
   },
   {
     "name": "wooden desk",
     "price": 40,
-    "company": "ikea"
+    "company": "Pro Photography"
   },
   {
     "name": "wooden table",
     "price": 23,
     "featured": true,
-    "company": "caressa"
+    "company": "Pro Photography"
   },
   {
     "name": "a first wooden table",
     "price": 23,
     "featured": true,
-    "company": "caressa"
+    "company": "Pro Photography"
   }
 ]
