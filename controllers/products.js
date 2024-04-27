@@ -26,7 +26,7 @@ const getAllproducts = errorWrapper(async (request, response) => {
 });
 
 const getAllProductStatic = errorWrapper(async (request, response) => {
-  const datafetched = await allProductsDB.find({});
+  const datafetched = await allProductsDB.find({}).sort("-price");
   response.status(200).json({
     message: datafetched,
   });
